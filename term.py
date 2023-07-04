@@ -3,7 +3,7 @@ import openai
 
 
 # Change to your OpenAI API key
-OPENAI_API_KEY = "your_OpenAI_API_key_here"
+OPENAI_API_KEY = "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"
 openai.api_key = OPENAI_API_KEY
 
 # Set the page layout to wide
